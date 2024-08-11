@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on predicting house prices in Bangalore using a dataset containing 13,321 entries and 9 features. By leveraging various machine learning algorithms, the project aims to enhance predictive accuracy and reduce forecasting errors in real estate price estimations.
+This project focuses on predicting house prices in Bangalore using a dataset containing 13,321 entries and 9 features. By leveraging various machine learning algorithms, the project aims to enhance predictive accuracy and reduce forecasting errors in real estate price estimation
 
 ## Key Features
 
